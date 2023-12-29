@@ -1,0 +1,120 @@
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Jim\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets2\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets3\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Jim\Desktop\totoros.org - proofsheets4\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets5\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Form1.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Resources.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.exe.config
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.exe.config
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Debug\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Form1.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF.Resources.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Debug\PIC2PROOF_V1.2.pdb

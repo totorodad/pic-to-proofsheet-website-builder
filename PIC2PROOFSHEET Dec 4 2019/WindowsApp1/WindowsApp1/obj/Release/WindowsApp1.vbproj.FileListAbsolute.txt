@@ -1,0 +1,34 @@
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF.exe.config
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF.pdb
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Form1.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Resources.resources
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.exe
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.xml
+C:\Users\totorodad\Desktop\totoros.org - proofsheets Beta Release\PIC2PROOFSHEET\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.exe.config
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Form1.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Resources.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET October 2017\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.exe.config
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.pdb
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\bin\Release\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Form1.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF.Resources.resources
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.exe
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.xml
+C:\Users\Jim\Desktop\Jim Stuff\PIC2PROOFSHEET\PIC2PROOFSHEET Dec 4 2019\WindowsApp1\WindowsApp1\obj\Release\PIC2PROOF_V1.2.pdb
